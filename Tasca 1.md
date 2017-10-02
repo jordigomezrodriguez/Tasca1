@@ -15,4 +15,8 @@
   # Hola que tal
 
   ```
+  Un altre exemple, en aquest cas seria utilitzant H6, ho tendrem que fer igualant el símbol "#" al nombre de grossor de la 
+  lletra que volguem, quedaria de la seguent manera, ###### Hola que tal.
+  ```
+  ###### Hola que tal
   
