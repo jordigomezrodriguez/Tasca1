@@ -1,2 +1,7 @@
-### Tasca1
-<h3>Hola mundo¡</h3>
+#Explicació fitxer Markdown
+
+##Diferents formats:
+
+###1.Header
+
+  -hola hola
