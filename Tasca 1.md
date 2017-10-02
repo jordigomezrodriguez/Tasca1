@@ -1,7 +1,7 @@
-#Explicació fitxer Markdown
+# Explicació fitxer Markdown
 
-##Diferents formats:
+## Diferents formats:
 
-###1.Header
+### 1.Header
 
   -hola hola
