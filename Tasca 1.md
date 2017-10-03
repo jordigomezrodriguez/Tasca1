@@ -86,30 +86,4 @@
   [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2" 
 
   ```
-  1. Primer item
-  2. Segon item
-  ..* Sencundari item.
-  + Sencundari item
-  - Secundari item
-  * Secundari item
-
-### 4. Links
-
-### 5. Images
-
-  -Serverix per aplicar imatges als nostres documents.
-
-  ```
-  Aqui col·locaríem els nostros logos, es poden posar de dos tipus, en línia o amb referència, en línia, esta escrita
-  la direcció de la imatge tota i en referència s'escriu la línia a partir de un nom que sera la referència a la direcció
-  de la imatge.
-
-  En línia:
-  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-  Referència:  (logo sería la referencia)
-  ![alt text][logo]   
-
-  [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"   
-  
-  ```
+ 
