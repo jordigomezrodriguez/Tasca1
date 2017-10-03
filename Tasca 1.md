@@ -4,7 +4,7 @@
 
 ### 1. Header
 
-  -Té quatre tipus, H1, H2, H3, H4, H5, H6, cada un des de H1 fins H6 funionen com a el tamany de la lletra del text que volem
+  - Té quatre tipus, H1, H2, H3, H4, H5, H6, cada un des de H1 fins H6 funionen com a el tamany de la lletra del text que volem
   escriure, aquí et mostram uns exemples:
 
   ```
