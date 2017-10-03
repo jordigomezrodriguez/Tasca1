@@ -50,7 +50,6 @@
   ```
   1. Primer item
   2. Segon item
-  ..* Sencundari item.
   + Sencundari item
   - Secundari item
   * Secundari item
