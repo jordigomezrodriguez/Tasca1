@@ -22,7 +22,7 @@
   
 ### 2.Emphasis
 
-  -S'utilitza per donar format a paraules per poder posar-les amb cursiva, negreta,cursiva i negreta o rattlat.
+  -S'utilitza per donar format a paraules per poder posar-les amb cursiva, negreta, cursiva i negreta o rattlat.
   
   ```
   Per poder posar cursiva a una paraula haurem de utilitzar *, al principi i final, per exemple, *Hola*. Si volguésim posar negreta
@@ -31,4 +31,9 @@
   ```
   
   *cursiva*   **negreta**   **_cursiva i negreta_**   ~~ratllat~~
+  
+### 3. Llistes
+  
+  
+ 
   
