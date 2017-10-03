@@ -29,5 +29,6 @@
   a una paraula utilitzam dos ** o _, per exemple, **Hola** o _Hola_. També podem posar a una paraula, cursiva i negreta, seria 
   així, **_Hola_**. I finalment per ratllar, ahurem de utilitzar dos ~~, per exemple, ~~Hola~~.
   ```
-
+  
+  *cursiva*   **negreta**   **_cursiva i negreta_**   ~~ratllat~~
   
