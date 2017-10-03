@@ -22,4 +22,12 @@
   
 ### 2.Emphasis
 
+  -S'utilitza per donar format a paraules per poder posar-les amb cursiva, negreta o ratllar.
+  
+  ```
+  Per poder posar cursiva a una paraula haurem de utilitzar *, al principi i final, per exemple, *Hola*. Si volguésim posar negreta
+  a una paraula utilitzam dos ** o _, per exemple, **Hola** o _Hola_. També podem posar a una paraula, cursiva i negreta, seria 
+  així, **_Hola_**. I finalment per ratllar, ahurem de utilitzar dos ~~, per exemple, ~~Hola~~.
+  ```
+
   
